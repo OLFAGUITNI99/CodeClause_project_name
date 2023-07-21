@@ -6,3 +6,4 @@ top of their responsibilities and commitments. The use of HTML ensures the basic
 while CSS is employed to style and enhance the visual appeal. JavaScript adds dynamic functionality, enabling tasks to be 
 dynamically updated and marked as complete. This to-do list application serves as a valuable tool for anyone seeking an accessible 
 and practical solution to organize their daily tasks and boost productivity.
+https://olfaguitni99.github.io/CodeClause_project_name/ tap here for a quick review of my project
